@@ -1,8 +1,8 @@
-## AiLMe
+## APUS AiLMe
 
-[AiLMe](https://ailme.ai) is a multilingual large language model trained by AiLMe AI Lab. It can produce stories and articles, and it can also give you helpful answers when you ask questions. It's still in the beginning phase, but its ultimate goal is to make a super smart AI that can completely liberate humanity from various arduous tasks.
+[AiLMe](https://ailme.ai) is a multilingual large language model trained by APUS AI Lab. It can produce stories and articles, and it can also give you helpful answers when you ask questions. It's still in the beginning phase, but its ultimate goal is to make a super smart AI that can completely liberate humanity from various arduous tasks.
 
-This project is an implementation of calling AiLMe API.
+This project is an implementation of calling APUS AiLMe API.
 
 
 ## Usage
